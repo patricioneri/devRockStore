@@ -8,16 +8,13 @@ export default function Reducer(state, action) {
   switch (type) {
     case GET_PRODUCTS:
       return { ...state, products: payload };
-
-    case ADD_TO_CART:
-      
+    case ADD_TO_CART:    
       return {
         ...state,
         cart: [
           ...state.cart,
           ...state.products.filter((e) => e.id === parseInt(payload)),
-        ],
-        price: state.cart.map(e => state.price = state.price + parseInt(e.precio))
+        ]
       };
     case CLEAN_CART:
       return {

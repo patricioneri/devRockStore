@@ -17,7 +17,7 @@ function App() {
           <UseContext>
               <Layout>
                 <Routes>
-                  <Route path={"/"} element={<Home />}></Route>
+                  <Route path={"/devRockStore"} element={<Home />}></Route>
                   <Route path={"/Cart"} element={<Cart />}></Route>
                   <Route path={"/Products"} element={<Products />}></Route>
                 </Routes>
