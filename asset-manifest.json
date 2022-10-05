@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/patricioneri.github.io/devRockStore/static/css/main.d7efb28e.css",
-    "main.js": "/patricioneri.github.io/devRockStore/static/js/main.7301184f.js",
-    "index.html": "/patricioneri.github.io/devRockStore/index.html",
-    "main.d7efb28e.css.map": "/patricioneri.github.io/devRockStore/static/css/main.d7efb28e.css.map",
-    "main.7301184f.js.map": "/patricioneri.github.io/devRockStore/static/js/main.7301184f.js.map"
+    "main.css": "/devRockStore/static/css/main.d7efb28e.css",
+    "main.js": "/devRockStore/static/js/main.7301184f.js",
+    "index.html": "/devRockStore/index.html",
+    "main.d7efb28e.css.map": "/devRockStore/static/css/main.d7efb28e.css.map",
+    "main.7301184f.js.map": "/devRockStore/static/js/main.7301184f.js.map"
   },
   "entrypoints": [
     "static/css/main.d7efb28e.css",
