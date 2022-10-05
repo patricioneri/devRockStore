@@ -1,0 +1,27 @@
+.headerContainer {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #212121;
+    color: white;
+}
+
+.backImg {
+    width: 30px;
+    transition: all .5s;
+}
+
+.backImg:hover {
+    width: 40px;
+}
+
+.cartImg {
+    width: 30px;
+    transition: all .5s;
+}
+
+.cartImg:hover {
+    width: 40px;
+}
+

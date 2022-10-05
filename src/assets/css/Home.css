@@ -1,0 +1,11 @@
+.HomeItemsContainer {
+    display: flex;
+    width: 360px;
+    height: 76vh;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    overflow: scroll;
+    overflow-x: hidden
+}

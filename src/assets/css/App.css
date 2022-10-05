@@ -1,0 +1,12 @@
+.appContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  background: #fff;
+  border: solid #dfdfdf;
+  width: 360px;
+  color: #212121;
+  font-family: sans-serif;
+}
