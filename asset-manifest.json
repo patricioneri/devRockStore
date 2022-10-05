@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/devRockStore/static/css/main.d7efb28e.css",
-    "main.js": "/devRockStore/static/js/main.5c9dfa48.js",
+    "main.js": "/devRockStore/static/js/main.4ffc75d1.js",
     "index.html": "/devRockStore/index.html",
     "main.d7efb28e.css.map": "/devRockStore/static/css/main.d7efb28e.css.map",
-    "main.5c9dfa48.js.map": "/devRockStore/static/js/main.5c9dfa48.js.map"
+    "main.4ffc75d1.js.map": "/devRockStore/static/js/main.4ffc75d1.js.map"
   },
   "entrypoints": [
     "static/css/main.d7efb28e.css",
-    "static/js/main.5c9dfa48.js"
+    "static/js/main.4ffc75d1.js"
   ]
 }
