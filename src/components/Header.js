@@ -8,7 +8,7 @@ export default function Header() {
 
   return (
     <div className='headerContainer'>
-      <Link to='/'><img className='backImg' src={back} alt="" /></Link>
+      <Link to='/devRockStore'><img className='backImg' src={back} alt="" /></Link>
 			Dev Rock Store
       <Link to='/cart'><img className='cartImg' src={cart} alt="" /></Link>
     </div>
